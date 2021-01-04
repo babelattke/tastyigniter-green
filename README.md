@@ -7,6 +7,20 @@
 
 ### About the theme
 
+**Compatibility** 
+
+| Extension        | Version           | Test Date  |
+| ------------- |:-------------:| -----:|
+| TastyIgniter      | 3.0.4.beta.25.2 | 04/01/2021 |
+| Cart      | 2.5.1 | 04/01/2021 |
+| Coupons      | 1.0.1 | 04/01/2021 |
+| FrontEnd      | 1.3.4 | 04/01/2021 |
+| Local      | 1.7.1 | 04/01/2021 |
+| StaticPages      | 1.4.1 | 04/01/2021 |
+| Pay Register      | 1.3.6 | 04/01/2021 |
+| User      | 1.5.2 | 04/01/2021 |
+
+
 ### The Green Extension
 
 ### Features
@@ -96,7 +110,12 @@ Customize:
 <img src="images/login_form_desktop.png" alt="LoginPage" width="550" height="250">
 
 #### Account Page
-*Pending add description and information* **Check Images Folder**
+
+<img src="images/account_desktop.png" alt="LoginPage" width="450" height="550">
+
+<img src="images/account_page_mobile.png" alt="LoginPage" width="350" height="550">
+
+Check Images folder for **edit details** and **edit adrress** 
 
 ---
 
