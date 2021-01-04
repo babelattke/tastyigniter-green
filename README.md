@@ -21,6 +21,8 @@
 | User      | 1.5.2 | 04/01/2021 |
 
 
+#### Demo URL: _Pending_
+
 ### The Green Extension
 
 ### Features
@@ -129,7 +131,7 @@ Enable it to show a popup message when a new user access your site. **Fixed styl
 Now you can choose a separate background for each social media icon.
 
 ### Contribution
-This is a paid theme for TastyIgniter with more features under development. Every 5 purchases the full amount of the theme will be donated to TastyIgniter project.
+This is a paid theme for TastyIgniter with more features under development. Every 5 sales the full amount of the theme will be donated to TastyIgniter project.
 
 Price: TBD
 
