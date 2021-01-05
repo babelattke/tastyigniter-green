@@ -21,7 +21,16 @@
 | User      | 1.5.2 | 04/01/2021 |
 
 
-#### Demo URL: _Pending_
+#### Demo URL
+
+Storefront Demo: https://babelattke.ca/  
+Admin Panel Demo: Not Available  
+
+You can use the existing customer account or register one yourself.  
+
+https://babelattke.ca/login  
+User: email@mail.com  
+Password: guestpassword  
 
 ### The Green Extension
 
