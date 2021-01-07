@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/babelattke/tastyigniter-green">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="280" height="120">
   </a>      
   <h3 align="center">Green Theme for TastyIgniter</h3>  
 </p>
@@ -142,7 +142,8 @@ Now you can choose a separate background for each social media icon.
 ### Contribution
 This is a paid theme for TastyIgniter with more features under development. Every 5 sales the full amount of the theme will be donated to TastyIgniter project.
 
-Price: TBD
+Theme Price: 25USD
+Extension Price: 5USD
 
 ### Build with (Pending Update)
 Themify Icons (url:themify-icons)  
